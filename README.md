@@ -1,6 +1,6 @@
 
 # theexchange-python3-clients
-theexchange python3 clients, including code samples to authenticate, authorize, submit requests, and process responses both small and large.
+The python3 client library includes code samples to authenticate, authorize, submit, and process requests for the Manufactured Housing, Loan Limits, and Housing Pulse products on The Exchange® by Fannie Mae.
 
 
 ### Installation Instructions:
